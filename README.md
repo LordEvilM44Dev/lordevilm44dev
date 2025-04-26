@@ -2,17 +2,19 @@
 
  I'm LordEvilM44 
 
- -Programmer
+ - Programmer
  
- -Game Developer 
+ - Game Developer
  
- -Web Developer/Designer 
+ - Gameplay Mechanic Designer
  
- -3D Modeler/Animator
+ - Web Developer/Designer 
+ 
+ - 3D Modeler/Animator
 
- -Narrative Designer
+ - Narrative Designer
  
- -Video Editor
+  -Video Editor
  
- -Content Creator
+ - Content Creator
  
