@@ -14,7 +14,7 @@
 
  - Narrative Designer
  
-  -Video Editor
+ - Video Editor
  
  - Content Creator
  
